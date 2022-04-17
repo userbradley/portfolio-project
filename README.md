@@ -42,4 +42,4 @@ At the end of this, you will have a site similar to [mine](https://bradley.bread
 
 # What next?
 
-[Click here](/) for the first assignment <!-- @TODO: add this link -->
+[Click here](https://github.com/userbradley/portfolio-project/blob/master/portfolio.md) for the first assignment <!-- @TODO: add this link -->
