@@ -60,6 +60,6 @@ And by all means, use the subpoints below `detail:` as headings
 
 Go forth and create a site! 
 
-### Notes from the authr
+### Notes from the author
 
-I personally reccomend Hugo as it has a search section, and navigation is super easy to do, plus they are markdown files so easy to store in git
+I personally recommend mkdocs with a theme, as it has a search section, and navigation is super easy to do, plus they are markdown files so easy to store in git
