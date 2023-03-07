@@ -36,4 +36,8 @@ In order to share it in a simple way, we're going to package it in a docker cont
 
 ### Notes from the author
 
-Use an nginx container, easy win!
+Use a nginx container, easy win!
+
+# What next?
+
+[Click here](cloudrun.md) for the first assignment

@@ -34,7 +34,7 @@ I'm writing this as an assignment, and later will provide writeup's on how to co
 * IaC
   * Terraform
 
-## What results you will yeild 
+## What results you will yield 
 
 At the end of this, you will have a site similar to [mine](https://bradley.breadnet.co.uk)
 

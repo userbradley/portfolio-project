@@ -63,3 +63,7 @@ Go forth and create a site!
 ### Notes from the author
 
 I personally recommend mkdocs with a theme, as it has a search section, and navigation is super easy to do, plus they are markdown files so easy to store in git
+
+# What next?
+
+[Click here](docker.md) for the first assignment
